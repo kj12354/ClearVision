@@ -1,0 +1,5 @@
+#HI! it's great to see that you're reading this, i put my heart and soul into this project and it is really nice that people are finally seeing this.
+# if you any suggestions or just really like this project, do let me know. Afterall, collaboration is way to success!
+# i would recommend you to install Pycharm along pytesseract,gTTs and opencv to run it smoothly. opencv is a bit neccesary(see the pycharm file)
+# apart from that, i dont have to much to say so enjoy exploring!
+print("Hello World")
