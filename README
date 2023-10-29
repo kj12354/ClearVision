@@ -1,7 +1,7 @@
-HI! It's great to see that you're reading this; we've put our heart and soul into this project and it is really nice that people are finally seeing this.
+HI! It's great to see that you're reading this; I've put our heart and soul into this project and it is really nice that people are finally seeing this.
 If you any suggestions or just really like this project, do let us know. Afterall, collaboration is way to success!
-We would recommend you to install PyCharm along pytesseract,gTTs and opencv to run it smoothly. OpenCV is a bit neccesary(see the pycharm file)
-apart from that, we dont have to much to say so enjoy exploring!
+I would recommend you to install PyCharm along pytesseract,gTTs and opencv to run it smoothly. OpenCV is a bit neccesary(see the pycharm file)
+apart from that, I dont have to much to say so enjoy exploring!
 print("Hello World")
 
-Contributors: Keshav Jain & Krishnam Jhalani
+Contributors: Krishnam Jhalani & Keshav Jain 
