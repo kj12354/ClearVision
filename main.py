@@ -63,5 +63,5 @@ def packet_sniffer(pkt):
         print("ARP Packet Detected: ", pkt.summary())
 
 
-# Start packet sniffing
+# Start packet sniffing //
 sniff(filter="arp", prn=packet_sniffer)
